@@ -141,4 +141,5 @@ body {
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
+    transition: 0.8s;
 }
